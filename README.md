@@ -16,3 +16,5 @@ What this Repository ContainsSelection
 Algorithms: Python scripts simulating the selection process for radio-resistant mutants.
 Statistical Models: Analysis of $LD_{50}$ (Lethal Dose) and mutation frequency in $M_{1}$ and $M_{2}$ generations.
 Phenotype Mapping: Documentation of morphological changes observed after extreme irradiation.# Strategic-Crop-Resilience-Project
+
+Run python resilience_model.py to simulate the survival rate and mutation spectrum of Phaseolus vulgaris under radioactive stress.
